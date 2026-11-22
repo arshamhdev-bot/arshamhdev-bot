@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<img src="http://localhost:3000/api/card?type=scene&username=arshamhdev-bot&theme=blueprint&scene=blueprint&v=4" alt="arshamhdev-bot" width="100%" />
+</div>
 
-<!--
-**arshamhdev-bot/arshamhdev-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="http://localhost:3000/api/card?type=stats&username=arshamhdev-bot&theme=blueprint&v=4" alt="GitHub stats" width="100%" />
 
-Here are some ideas to get you started:
+<img src="http://localhost:3000/api/card?type=languages&username=arshamhdev-bot&theme=blueprint&v=4" alt="Top languages" width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="http://localhost:3000/api/card?type=activity&username=arshamhdev-bot&theme=blueprint&v=4" alt="Contribution activity" width="100%" />
+
+<img src="http://localhost:3000/api/card?type=projects&username=arshamhdev-bot&theme=blueprint&count=4&v=4" alt="Projects" width="100%" />
+
+<p align="right"><sub>Made with <a href="http://localhost:3000">GitSkins</a></sub></p>
